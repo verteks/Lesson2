@@ -7,6 +7,9 @@ public class program {
     public double summ(Double a, Double b) {
         return a + b;
     }
+	public double sumb(Double a, Double b) {
+        return a - b;
+    }
 
 
 }
